@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="622.000000pt"
+   height="350.000000pt"
+   viewBox="0 0 622.000000 350.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg3763"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs3767">
+    <linearGradient
+       id="linearGradient6046"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6044" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6040"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6038" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6034"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#971817;stop-opacity:1;"
+         offset="0"
+         id="stop6032" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6034"
+       id="linearGradient6036"
+       x1="870"
+       y1="2230.2632"
+       x2="1860"
+       y2="2230.2632"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6034"
+       id="linearGradient6042"
+       x1="1290"
+       y1="2230"
+       x2="2290"
+       y2="2230"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6034"
+       id="linearGradient6048"
+       x1="2430"
+       y1="2262.5"
+       x2="4045"
+       y2="2262.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1924"
+     inkscape:window-height="978"
+     id="namedview3765"
+     showgrid="false"
+     inkscape:zoom="0.855"
+     inkscape:cx="126.04945"
+     inkscape:cy="301.06806"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3761" />
+  <metadata
+     id="metadata3753">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="translate(0.000000,350.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g3761">
+    <path
+       d="M2434 2981 c-2 -2 -4 -328 -4 -723 l0 -718 185 0 184 0 78 94 c43 51 118 141 166 200 l89 106 71 0 72 0 200 -200 200 -200 185 0 185 0 -3 722 -2 723 -183 -2 -182 -1 -5 -446 -5 -446 -105 105 -105 105 -230 0 -230 0 -90 -110 c-49 -60 -93 -110 -97 -110 -5 0 -8 204 -8 453 l0 452 -181 0 c-99 0 -183 -2 -185 -4z"
+       id="path3755"
+       style="fill-opacity:1.0;fill:url(#linearGradient6048)" />
+    <path
+       d="M1980 2600 l0 -320 -345 0 -345 0 0 -155 0 -155 345 0 345 0 0 -215 0 -215 155 0 155 0 0 690 0 690 -155 0 -155 0 0 -320z"
+       id="path3757"
+       style="fill-opacity:1.0;fill:url(#linearGradient6042)" />
+    <path
+       d="M 870,2230.2632 V 1540 h 490 490 v 182.8903 182.8902 h -335 -335 v 306.7836 306.7836 h 340 340 v 200.5893 200.5893 H 1365 870 Z"
+       id="path3759"
+       inkscape:connector-curvature="0"
+       style="stroke-width:1.08624911;fill:url(#linearGradient6036);fill-opacity:1" />
+  </g>
+</svg>
